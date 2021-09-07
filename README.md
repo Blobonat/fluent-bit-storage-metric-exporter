@@ -6,7 +6,7 @@ This exporter runs as own web server, parses the storage layer metrics and provi
 
 ## Setup
 
-This exporter ist written to run with Python 2.7.
+This exporter was written to run with Python 2.7.
 
 ### Installation
 
